@@ -14,3 +14,6 @@
   - Car would take 2 Grid Cells
   - Bus would take 3 Grid Cells
 - Vehicles can **only** be parked in one single row of parking space. As in horizontally only. Since between different rows would be a space, so that vehicles could move in and out of parking area.
+
+## Output
+Output is generated in a file name "dump.txt" in the same directory as the code.
