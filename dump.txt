@@ -1,0 +1,433 @@
+************************************************************
+Parking Lot Application has Started
+************************************************************
+
+Total of 50 vehicles are going to be initialized.
+##############################
+Vehicle MOTORCYCLE added with license plate DQ-87-PS-0488
+Vehicle MOTORCYCLE added with license plate BC-16-FG-2375
+Vehicle MOTORCYCLE added with license plate LV-00-EM-6885
+Vehicle MOTORCYCLE added with license plate MM-60-EH-6144
+Vehicle MOTORCYCLE added with license plate RX-56-DX-5867
+Initialized 5 vehicles. Sleeping now...
+Vehicle MOTORCYCLE added with license plate CQ-68-FH-7248
+Vehicle MOTORCYCLE added with license plate VG-79-XM-5469
+Vehicle MOTORCYCLE added with license plate WB-40-AV-0683
+Vehicle MOTORCYCLE added with license plate HR-57-EF-1450
+Vehicle MOTORCYCLE added with license plate ST-46-AA-6287
+Initialized 10 vehicles. Sleeping now...
+Vehicle CAR added with license plate BD-36-VE-4137
+Vehicle CAR added with license plate UN-99-QU-5797
+Vehicle CAR added with license plate YD-87-FN-0875
+Vehicle CAR added with license plate LT-40-BN-8970
+Vehicle CAR added with license plate AQ-37-ST-0076
+Initialized 15 vehicles. Sleeping now...
+Vehicle CAR added with license plate TD-71-EQ-2062
+Vehicle CAR added with license plate VF-16-QX-3342
+Vehicle CAR added with license plate UF-16-NQ-5018
+Vehicle CAR added with license plate TT-51-PM-0194
+Vehicle CAR added with license plate CX-91-AM-8237
+Initialized 20 vehicles. Sleeping now...
+Vehicle CAR added with license plate PH-63-VT-6670
+Vehicle CAR added with license plate KL-69-EG-7740
+Vehicle CAR added with license plate CT-28-XY-6262
+Vehicle CAR added with license plate KM-81-DT-5246
+Vehicle CAR added with license plate HX-19-FY-9723
+Initialized 25 vehicles. Sleeping now...
+Vehicle CAR added with license plate QH-11-VD-9183
+Vehicle CAR added with license plate VX-23-PR-2831
+Vehicle CAR added with license plate BP-04-ML-7010
+Vehicle CAR added with license plate FX-51-ME-7294
+Vehicle CAR added with license plate UW-03-HJ-1449
+Initialized 30 vehicles. Sleeping now...
+Vehicle CAR added with license plate NG-49-VS-5962
+Vehicle CAR added with license plate EY-93-EG-2192
+Vehicle CAR added with license plate BB-07-FM-0122
+Vehicle CAR added with license plate KX-71-CQ-0524
+Vehicle CAR added with license plate DW-43-FJ-9979
+Initialized 35 vehicles. Sleeping now...
+Vehicle BUS added with license plate GN-96-AW-4624
+Vehicle BUS added with license plate DY-11-XG-9310
+Vehicle BUS added with license plate KV-73-BF-9586
+Vehicle BUS added with license plate LM-66-AE-4451
+Vehicle BUS added with license plate BV-92-NT-4155
+Initialized 40 vehicles. Sleeping now...
+Vehicle BUS added with license plate AG-89-PK-7426
+Vehicle BUS added with license plate XG-97-LR-2236
+Vehicle BUS added with license plate RQ-74-LJ-7089
+Vehicle BUS added with license plate GQ-06-NH-1302
+Vehicle BUS added with license plate YC-23-GN-9064
+Initialized 45 vehicles. Sleeping now...
+Vehicle BUS added with license plate CA-53-XL-6621
+Vehicle BUS added with license plate GZ-18-GQ-0821
+Vehicle BUS added with license plate SM-80-UQ-6663
+Vehicle BUS added with license plate NT-96-JX-7663
+Vehicle BUS added with license plate JR-93-TF-7243
+Initialized 50 vehicles. Sleeping now...
+##############################
+
+Parking all Vehicles.....
+..............................
+Vehicle CAR with DW-43-FJ-9979 is now occupying the slot (3, 3, 0) to (3, 3, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with UF-16-NQ-5018 is now occupying the slot (0, 4, 0) to (0, 4, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with KX-71-CQ-0524 is now occupying the slot (1, 10, 0) to (1, 10, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with VX-23-PR-2831 is now occupying the slot (3, 12, 0) to (3, 12, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with RQ-74-LJ-7089 is now occupying the slot (3, 5, 0) to (3, 5, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with YD-87-FN-0875 is now occupying the slot (2, 11, 0) to (2, 11, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with EY-93-EG-2192 is now occupying the slot (3, 9, 0) to (3, 9, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with TT-51-PM-0194 is now occupying the slot (0, 7, 0) to (0, 7, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with HR-57-EF-1450 is now occupying the slot (1, 8, 0) to (1, 8, 0)
+Parked Successfully.
+..............................
+
+Taking some rest... Initiated Parking Protocol for 10 vehicles till now.
+..............................
+Vehicle CAR with BB-07-FM-0122 is now occupying the slot (2, 8, 0) to (2, 8, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with FX-51-ME-7294 is now occupying the slot (4, 15, 0) to (4, 15, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with KL-69-EG-7740 is now occupying the slot (1, 13, 0) to (1, 13, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with NG-49-VS-5962 is now occupying the slot (1, 5, 0) to (1, 5, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with SM-80-UQ-6663 is now occupying the slot (2, 19, 0) to (2, 19, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with BP-04-ML-7010 is now occupying the slot (1, 19, 0) to (1, 19, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with CT-28-XY-6262 is now occupying the slot (4, 9, 0) to (4, 9, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with BD-36-VE-4137 is now occupying the slot (1, 8, 1) to (1, 8, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with GN-96-AW-4624 is now occupying the slot (0, 3, 0) to (0, 3, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with RX-56-DX-5867 is now occupying the slot (2, 3, 0) to (2, 3, 0)
+Parked Successfully.
+..............................
+
+Taking some rest... Initiated Parking Protocol for 20 vehicles till now.
+..............................
+Vehicle MOTORCYCLE with VG-79-XM-5469 is now occupying the slot (2, 2, 0) to (2, 2, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with UW-03-HJ-1449 is now occupying the slot (0, 8, 0) to (0, 8, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with QH-11-VD-9183 is now occupying the slot (4, 15, 2) to (4, 15, 3)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with JR-93-TF-7243 is now occupying the slot (1, 3, 0) to (1, 3, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with KM-81-DT-5246 is now occupying the slot (4, 0, 0) to (4, 0, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with HX-19-FY-9723 is now occupying the slot (2, 15, 0) to (2, 15, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with BC-16-FG-2375 is now occupying the slot (0, 17, 0) to (0, 17, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with DQ-87-PS-0488 is now occupying the slot (3, 0, 0) to (3, 0, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with NT-96-JX-7663 is now occupying the slot (4, 12, 0) to (4, 12, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with GQ-06-NH-1302 is now occupying the slot (1, 18, 0) to (1, 18, 2)
+Parked Successfully.
+..............................
+
+Taking some rest... Initiated Parking Protocol for 30 vehicles till now.
+..............................
+Vehicle MOTORCYCLE with ST-46-AA-6287 is now occupying the slot (3, 6, 0) to (3, 6, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with TD-71-EQ-2062 is now occupying the slot (4, 3, 0) to (4, 3, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with PH-63-VT-6670 is now occupying the slot (2, 1, 0) to (2, 1, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with XG-97-LR-2236 is now occupying the slot (4, 18, 0) to (4, 18, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with GZ-18-GQ-0821 is now occupying the slot (1, 1, 0) to (1, 1, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with MM-60-EH-6144 is now occupying the slot (3, 19, 0) to (3, 19, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with CQ-68-FH-7248 is now occupying the slot (1, 13, 2) to (1, 13, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with AQ-37-ST-0076 is now occupying the slot (0, 10, 0) to (0, 10, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with DY-11-XG-9310 is now occupying the slot (3, 10, 0) to (3, 10, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with KV-73-BF-9586 is now occupying the slot (3, 3, 2) to (3, 3, 4)
+Parked Successfully.
+..............................
+
+Taking some rest... Initiated Parking Protocol for 40 vehicles till now.
+..............................
+Vehicle BUS with YC-23-GN-9064 is now occupying the slot (3, 4, 0) to (3, 4, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with VF-16-QX-3342 is now occupying the slot (3, 19, 1) to (3, 19, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with AG-89-PK-7426 is now occupying the slot (3, 0, 1) to (3, 0, 3)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with LV-00-EM-6885 is now occupying the slot (4, 5, 0) to (4, 5, 0)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with CA-53-XL-6621 is now occupying the slot (0, 6, 0) to (0, 6, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with UN-99-QU-5797 is now occupying the slot (3, 6, 1) to (3, 6, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with LM-66-AE-4451 is now occupying the slot (2, 3, 1) to (2, 3, 3)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle CAR with LT-40-BN-8970 is now occupying the slot (2, 16, 0) to (2, 16, 1)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle BUS with BV-92-NT-4155 is now occupying the slot (4, 4, 0) to (4, 4, 2)
+Parked Successfully.
+..............................
+
+..............................
+Vehicle MOTORCYCLE with WB-40-AV-0683 is now occupying the slot (2, 18, 0) to (2, 18, 0)
+Parked Successfully.
+..............................
+
+Taking some rest... Initiated Parking Protocol for 50 vehicles till now.
+..............................
+Vehicle CAR with CX-91-AM-8237 is now occupying the slot (3, 5, 3) to (3, 5, 4)
+Parked Successfully.
+..............................
+
+..............................
+Parking Status of All Vehicles
+[True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+..............................
+
+27 vehicles will be removed from parking from 50 vehicles available, if they are parked.
+******************************
+Vehicle CAR with DW-43-FJ-9979 occupying the slot (3, 3, 0) to (3, 3, 1) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with KX-71-CQ-0524 occupying the slot (1, 10, 0) to (1, 10, 1) is removed from parking
+******************************
+
+******************************
+Vehicle BUS with CA-53-XL-6621 occupying the slot (0, 6, 0) to (0, 6, 2) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with UN-99-QU-5797 occupying the slot (3, 6, 1) to (3, 6, 2) is removed from parking
+******************************
+
+Taking Rest...
+******************************
+Vehicle CAR with UW-03-HJ-1449 occupying the slot (0, 8, 0) to (0, 8, 1) is removed from parking
+******************************
+
+The Chosen Vehicle CAR with license plate UW-03-HJ-1449 was not parked initially.
+
+******************************
+Vehicle BUS with BV-92-NT-4155 occupying the slot (4, 4, 0) to (4, 4, 2) is removed from parking
+******************************
+
+******************************
+Vehicle BUS with RQ-74-LJ-7089 occupying the slot (3, 5, 0) to (3, 5, 2) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with UF-16-NQ-5018 occupying the slot (0, 4, 0) to (0, 4, 1) is removed from parking
+******************************
+
+Taking Rest...
+******************************
+Vehicle MOTORCYCLE with ST-46-AA-6287 occupying the slot (3, 6, 0) to (3, 6, 0) is removed from parking
+******************************
+
+******************************
+Vehicle BUS with XG-97-LR-2236 occupying the slot (4, 18, 0) to (4, 18, 2) is removed from parking
+******************************
+
+******************************
+Vehicle BUS with NT-96-JX-7663 occupying the slot (4, 12, 0) to (4, 12, 2) is removed from parking
+******************************
+
+******************************
+Vehicle MOTORCYCLE with MM-60-EH-6144 occupying the slot (3, 19, 0) to (3, 19, 0) is removed from parking
+******************************
+
+The Chosen Vehicle MOTORCYCLE with license plate ST-46-AA-6287 was not parked initially.
+
+Taking Rest...
+The Chosen Vehicle CAR with license plate UF-16-NQ-5018 was not parked initially.
+
+******************************
+Vehicle BUS with AG-89-PK-7426 occupying the slot (3, 0, 1) to (3, 0, 3) is removed from parking
+******************************
+
+The Chosen Vehicle BUS with license plate CA-53-XL-6621 was not parked initially.
+
+******************************
+Vehicle CAR with PH-63-VT-6670 occupying the slot (2, 1, 0) to (2, 1, 1) is removed from parking
+******************************
+
+******************************
+Vehicle MOTORCYCLE with RX-56-DX-5867 occupying the slot (2, 3, 0) to (2, 3, 0) is removed from parking
+******************************
+
+Taking Rest...
+******************************
+Vehicle CAR with KM-81-DT-5246 occupying the slot (4, 0, 0) to (4, 0, 1) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with YD-87-FN-0875 occupying the slot (2, 11, 0) to (2, 11, 1) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with CT-28-XY-6262 occupying the slot (4, 9, 0) to (4, 9, 1) is removed from parking
+******************************
+
+******************************
+Vehicle CAR with HX-19-FY-9723 occupying the slot (2, 15, 0) to (2, 15, 1) is removed from parking
+******************************
+
+The Chosen Vehicle CAR with license plate CT-28-XY-6262 was not parked initially.
+
+Taking Rest...
+******************************
+Vehicle MOTORCYCLE with WB-40-AV-0683 occupying the slot (2, 18, 0) to (2, 18, 0) is removed from parking
+******************************
+
+******************************
+Vehicle BUS with GN-96-AW-4624 occupying the slot (0, 3, 0) to (0, 3, 2) is removed from parking
+******************************
+
+******************************
+Vehicle MOTORCYCLE with DQ-87-PS-0488 occupying the slot (3, 0, 0) to (3, 0, 0) is removed from parking
+******************************
+
